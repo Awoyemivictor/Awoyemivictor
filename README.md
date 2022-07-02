@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# My name is Awoyemi Victor and I am a currently learning Software Engineering at ALX Cohort.
+
 <!--
 **Awoyemivictor/Awoyemivictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
