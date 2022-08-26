@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# My name is Awoyemi Victor and I am a currently learning Software Engineering at ALX Cohort.
+My name is Awoyemi Victor and I am a currently learning Software Engineering at ALX Cohort.
 #
 # I work as a part-time developer as a freelancer exclusively on Upwork.
 
