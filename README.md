@@ -8,7 +8,7 @@ I currently work as a part-time freelance developer exclusively on Upwork. You c
 
 I would love if you could buy me a Cup of Coffee if you find any of my repository projects helpful 😊: https://www.buymeacoffee.com/awoyemivictor
 
-<b>Have any Questions?</b><br>
+<b>In case you have any Questions or feel like connecting with me?</b><br>
 >> You can reach out to me on:<br>
 
 <ul>
