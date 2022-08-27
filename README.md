@@ -8,7 +8,8 @@ I currently work as a part-time freelance developer exclusively on Upwork.
 
 Buy Me Coffee: https://www.buymeacoffee.com/awoyemivictor
 
-Have any Questions? You can reach out to me on:
+<b>Have any Questions?</b><br>
+You can reach out to me on:<br>
 Facebook: https://web.facebook.com/awoyemivictora<br>
 Twitter: https://twitter.com/awoyemivictora<br>
 Linkedin: https://www.linkedin.com/in/victor-awoyemi-910786152/<br>
