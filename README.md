@@ -11,13 +11,14 @@ Buy Me Coffee: https://www.buymeacoffee.com/awoyemivictor
 <b>Have any Questions?</b><br>
 >> You can reach out to me on:<br>
 
-Facebook: https://web.facebook.com/awoyemivictora<br>
-Twitter: https://twitter.com/awoyemivictora<br>
-Linkedin: https://www.linkedin.com/in/victor-awoyemi-910786152/<br>
-Github: https://github.com/Awoyemivictor<br>
-Upwork: https://www.upwork.com/freelancers/~01d55cdf3657f9b48b<br>
-YouTube: https://www.youtube.com/channel/UC4MNrBTppl7L27TO3LP_xsg<br>
-Website: https://awoyemivictor.info/<br>
+<ul>
+  <li>Facebook: https://web.facebook.com/awoyemivictora</li><br>
+<li>Twitter: https://twitter.com/awoyemivictora</li><br>
+<li>Linkedin: https://www.linkedin.com/in/victor-awoyemi-910786152/</li><br>
+<li>Github: https://github.com/Awoyemivictor</li><br>
+<li>Upwork: https://www.upwork.com/freelancers/~01d55cdf3657f9b48b</li><br>
+<li>YouTube: https://www.youtube.com/channel/UC4MNrBTppl7L27TO3LP_xsg</li><br>
+<li>Website: https://awoyemivictor.info/</li><br>
 <!--
 **Awoyemivictor/Awoyemivictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
