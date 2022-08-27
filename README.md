@@ -10,7 +10,7 @@ Buy Me Coffee: https://www.buymeacoffee.com/awoyemivictor
 
 Have any Questions? You can reach out to me on:
 Facebook: https://web.facebook.com/awoyemivictora<br>
-Twitter: https://twitter.com/awoyemivictora
+Twitter: https://twitter.com/awoyemivictora<br>
 Linkedin: https://www.linkedin.com/in/victor-awoyemi-910786152/
 Github: https://github.com/Awoyemivictor
 Upwork: https://www.upwork.com/freelancers/~01d55cdf3657f9b48b
