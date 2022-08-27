@@ -4,9 +4,9 @@ My name is Awoyemi Victor, and I began my career as a web developer in the middl
 #
 Since July 2022, as a Software Engineer in the ALX Cohort 8 Program, I have been learning low level programming languages, ranging from C to Python.
 #
-I currently work as a part-time freelance developer exclusively on Upwork.
+I currently work as a part-time freelance developer exclusively on Upwork. You can check through my repositories to see projects which I've been able to work on and contribute to both as a student and also as a programmer.
 
-Buy Me Coffee: https://www.buymeacoffee.com/awoyemivictor
+I would love if you could buy me a Cup of Coffee if you find any of my repository projects helpful :-) : https://www.buymeacoffee.com/awoyemivictor
 
 <b>Have any Questions?</b><br>
 >> You can reach out to me on:<br>
