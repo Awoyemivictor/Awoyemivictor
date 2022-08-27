@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Awoyemi Victor and I started my journey as a Web developer back in the mid-2020 working part-time as a Freelancer. In July 2021, I started learning Blockchain Development specializing in niche relating to creating crypto tokens and NFT's on Ethereum, Solana, Binance Smart chain, Cardano and Tron Network.
+My name is Awoyemi Victor, and I began my career as a web developer in the middle of 2020 while working as a freelancer on the side. I began studying blockchain development in July 2021, focusing on the niche of developing NFTs and crypto tokens on the Ethereum, Solana, Binance Smart Chain, Cardano, and Tron Network.
 #
-In since July 2022, I joined ALX Cohort 8 Programme and started learning Low level programming language from C to Python language as a Software Engineer.
+Since July 2022, as a Software Engineer in the ALX Cohort 8 Program, I have been learning low level programming languages, ranging from C to Python.
 #
 I currently work as a part-time freelance developer exclusively on Upwork.
 
