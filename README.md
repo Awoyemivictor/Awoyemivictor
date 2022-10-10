@@ -1,4 +1,4 @@
-Content creator by day...Developer and Programmer by night! I combine my two greatest passions and I apply them to help you take advantage of Web3 technology, asset tokenization, Crypto tokens & NFTs Minting website . 
+Content creator by day...Developer and Programmer by night! I combine my two greatest passions and I apply them to help you take advantage of Web3 technology, asset tokenization, Crypto tokens, NFT Minting website & Marketplace. 
 
 ### Hi there 👋
 
