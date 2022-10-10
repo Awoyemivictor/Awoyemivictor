@@ -3,7 +3,7 @@ Content creator by day...Developer and Programmer by night! I combine my two gre
 ### Hi there 👋
 
 #
-My name is Awoyemi Victor, and I began my career as a web developer in the middle of 2020 while working as a freelancer on the side. My deep passion led me to began studying blockchain development in July 2021, focusing on the niche of developing NFT Minting Website & Marketplace and not excluding Crypto tokens creations and Smart Contracts on the Ethereum, Solana, Binance Smart Chain, Cardano, and Tron Network.
+My name is Awoyemi Victor, and I began my career as a web developer in the middle of 2020 while working as a freelancer on the side. My deep passion led me to began studying blockchain development in July 2021, focusing on the niche of developing NFT Minting Website & Marketplace and not excluding Crypto token creations and Smart Contracts on the Ethereum, Solana, Binance Smart Chain, Cardano, and Tron Network.
 #
 I've also had to foster my knowledge as a Software Engineer and Developer since July 2022 studying in the ALX Cohort 8 Program. So far, I have been learning low level programming languages, ranging from C to Python. I also build front-end application and interface with React.Js, JavaScript & TypeScript.
 #
