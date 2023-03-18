@@ -15,9 +15,10 @@ I would love if you could buy me a Cup of Coffee if you find any of my repositor
 >> You can reach out to me on:<br>
 
 <ul>
-  <li>Facebook: https://web.facebook.com/awoyemivictora</li><br>
+  <li>Facebook: https://web.facebook.com/awoyemiavictor</li><br>
 <li>Twitter: https://twitter.com/awoyemivictora</li><br>
 <li>Linkedin: https://www.linkedin.com/in/victor-awoyemi-910786152/</li><br>
+<li>Medium: https://awoyemivictora.medium.com/</li><br>
 <li>Github: https://github.com/Awoyemivictor</li><br>
 <li>Upwork: https://www.upwork.com/freelancers/~01d55cdf3657f9b48b</li><br>
 <li>YouTube: https://www.youtube.com/channel/UC4MNrBTppl7L27TO3LP_xsg</li><br>
