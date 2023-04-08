@@ -1,9 +1,9 @@
-Software Full Stack Engineer and Business Entrepreneur by day...Student and Content creator by night! I combine my two greatest passions and I apply them to bridge the gap between technology and business goals; helping you take advantage by using innovations and techonologies to find creative innovative solutions and simplified ideas with vast experience working with C, C++/SDL2, Python, Flask, JavaScript, HTML/CSS, MySQL Databases, SQLAlchemy and FastAPI to build applications including Web3 technology, asset tokenization, Crypto tokens, NFTs and Web Applications. Let me quickly introduce myself👇👇👇
+Software Full Stack Engineer and Business Entrepreneur by day...Student and Content creator by night! I combine my two greatest passions and I apply them to bridge the gap between technology and business goals.
 
 ### Hi there 👋
 
 #
-My name is Awoyemi Victor, and I began my career as a Software Engineer in 2017 while working as a freelancer on the side. My deep passion in coding led me to learning HTML & CSS for start using various tools and resources available to me at that time.
+My name is Awoyemi Victor, and I began my career as a Software Engineer in 2017 while working as a freelancer on the other side. My passion involve using innovations and techonologies to find creative innovative solutions and simplified ideas. My programming skills include: C, C++/SDL2, Python, Flask, JavaScript, HTML/CSS, MySQL Databases, SQLAlchemy and FastAPI; developing various software applications ranging from Web app, Games & Blockchains. My deep passion in coding led me to learning HTML & CSS from scratch back in 2017 using various tools and resources available to me at that time.
 #
 After some time, I spent two years to learn Frontend Web Application design with CMS platforms like WordPress, Wix & Shopify at the same time, receiving various jobs from clients all across the world. Because I was hungry for more, my drive led me to apply to study as a full-time Software Engineer in the ALX Software Engineering Programme and I joined the Cohort 8 back in June 2022. So far, I have been learning low level programming languages, ranging from C to Python. I also build front-end application and interface with React.Js, JavaScript & TypeScript.
 #
