@@ -7,7 +7,7 @@ My name is Awoyemi Victor, and I began my career as a Software Engineer in 2017 
 #
 After some time, I spent two years to learn Frontend Web Application design with CMS platforms like WordPress, Wix & Shopify at the same time, receiving various jobs from clients all across the world. Because I was hungry for more, my drive led me to apply to study as a full-time Software Engineer in the ALX Software Engineering Programme and I joined the Cohort 8 back in June 2022. So far, I have been learning low level programming languages, ranging from C to Python. I also build front-end application and interface with React.Js, JavaScript & TypeScript.
 #
-Within me is a deep voice ready that is eager to know more and solve real life problems with my programming knowledge drive. My expectations for the future is high and I storngly believe the world is waiting to hear that deep roaring within me. Some of my past projects are available on my repositories. You can as well check them out.
+Within me is a deep voice ready to learn more and solve real life problems with my programming knowledge drive. My expectations for the future is high and I storngly believe the world is waiting to hear that deep roaring within me. Some of my past projects are available on my repositories. You can as well check them out.
 
 In case you find of my past works helpful and you feel like buying me a Cup of Coffee 😊, you can click on this link (Thank You): https://www.buymeacoffee.com/awoyemivictor
 
