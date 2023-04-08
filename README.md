@@ -1,15 +1,15 @@
-Content creator by day...Developer and Programmer by night! I combine my two greatest passions and I apply them to help you take advantage of Web3 technology, asset tokenization, Crypto tokens, NFT Minting website & Marketplace. Let me quickly introduce myself👇👇👇
+Software Full Stack Engineer and Business Entrepreneur by day...Student and Content creator by night! I combine my two greatest passions and I apply them to bridge the gap between technology and business goals; helping you take advantage by using innovations and techonologies to find creative innovative solutions and simplified ideas with vast experience working with C, C++/SDL2, Python, Flask, JavaScript, HTML/CSS, MySQL Databases, SQLAlchemy and FastAPI to build applications including Web3 technology, asset tokenization, Crypto tokens, NFTs and Web Applications. Let me quickly introduce myself👇👇👇
 
 ### Hi there 👋
 
 #
-My name is Awoyemi Victor, and I began my career as a web developer in the middle of 2020 while working as a freelancer on the side. My deep passion led me to began studying blockchain development in July 2021, focusing on the niche of developing NFT Minting Website & Marketplace and not excluding Crypto token creations and Smart Contracts on the Ethereum, Solana, Binance Smart Chain, Cardano, and Tron Network.
+My name is Awoyemi Victor, and I began my career as a Software Engineer in 2017 while working as a freelancer on the side. My deep passion in coding led me to learning HTML & CSS for start using various tools and resources available to me at that time.
 #
-I've also had to foster my knowledge as a Software Engineer and Developer since July 2022 studying in the ALX Cohort 8 Program. So far, I have been learning low level programming languages, ranging from C to Python. I also build front-end application and interface with React.Js, JavaScript & TypeScript.
+After some time, I spent two years to learn Frontend Web Application design with CMS platforms like WordPress, Wix & Shopify at the same time, receiving various jobs from clients all across the world. Because I was hungry for more, my drive led me to apply to study as a full-time Software Engineer in the ALX Software Engineering Programme and I joined the Cohort 8 back in June 2022. So far, I have been learning low level programming languages, ranging from C to Python. I also build front-end application and interface with React.Js, JavaScript & TypeScript.
 #
-I currently work as a part-time freelance developer exclusively on Upwork. You can check through my repositories to see projects which I've been able to work on and contribute to both as a student and also as a programmer.
+Within me is a deep voice ready that is eager to know more and solve real life problems with my programming knowledge drive. My expectations for the future is high and I storngly believe the world is waiting to hear that deep roaring within me. Some of my past projects are available on my repositories. You can as well check them out.
 
-I would love if you could buy me a Cup of Coffee if you find any of my repository projects helpful 😊: https://www.buymeacoffee.com/awoyemivictor
+In case you find of my past works helpful and you feel like buying me a Cup of Coffee 😊, you can click on this link (Thank You): https://www.buymeacoffee.com/awoyemivictor
 
 <b>In case you have any Questions or feel like connecting with me?</b><br>
 >> You can reach out to me on:<br>
