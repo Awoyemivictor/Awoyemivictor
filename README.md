@@ -1,18 +1,19 @@
-Full Stack Blockchain and Entrepreneur by day...Teacher, Mentor and Coach by night! I combine my two greatest passions and I apply them to bridge the gap between technology and business goals.
+Programming and Coding can be boring... frustrating... and devastating... 🙁 Yeah, I know and I've also been in that shoe and that's why am here to help you.
 
 ### Hi there 👋
 
 #
-My name is Awoyemi Victor, and I began my career as a Software Engineer in 2017 while working as a freelancer on the other side. My passion involve using innovations and techonologies to find creative innovative solutions and simplified ideas. My programming skills include: C, C++/SDL2, Python, Flask, JavaScript, HTML/CSS, MySQL Databases, SQLAlchemy and FastAPI; developing various software applications ranging from Web app, Games & Blockchains. My deep passion in coding led me to learning HTML & CSS from scratch back in 2017 using various tools and resources available to me at that time.
+I’m Awoyemi Victor, a Full-Stack Solana Blockchain & Web Developer,  Teacher, Trainer and Coach.
 #
-I specialize in Blockchain developments with main focus on Ethereum only. I can handle any sort of Blockchain related projects ranging from Smart Contracts, Crypto token creation, NFTs Minting Website and Marketplace, Dapps, ICO and many more.
+When I started coding, I struggled. I landed an internship web3 related job, but I didn’t know how to go about it. I turned to countless courses and books, but they only taught theory.
 #
-Within me is a deep voice ready to learn more and solve real life problems with my coding skills. My expectations for the future is high and I storngly believe the world is waiting to hear that deep roaring within me. Some of my past projects are available on my repositories. You can as well check them out.
+Nothing helped. Gosh! 🥹 The courses left me confused, bored, demotivated, and helpless. They taught concepts…but none of them taught me how to use those concepts to make something real.
 
-In case you find of my past works helpful and you feel like buying me a Cup of Coffee 😊, you can click on this link (Thank You): https://www.buymeacoffee.com/awoyemivictor
+Many days I was unable to write even a single line of code. I was so close to giving up but my love for coding was the only thing that kept me going.
 
-<b>If you need help or consultation, feel free to book a consultation appointment with me here: <li>https://calendly.com/awoyemivictora/consultation-appointment</li></b><br>
->> You can reach out to me on:<br>
+After a lot of trial and error and unending frustration, I finally discovered the best way to learn and impact others. You want to know the answer?
+
+>>SUBSCRIBE to my channel and FOLLOW ME to learn more 👇👇👇<br>
 
 <ul>
 <li>Facebook: https://web.facebook.com/awoyemiavictor</li><br>
@@ -23,6 +24,10 @@ In case you find of my past works helpful and you feel like buying me a Cup of C
 <li>Upwork: https://www.upwork.com/freelancers/~01d55cdf3657f9b48b</li><br>
 <li>YouTube: https://www.youtube.com/@awoyemivictora</li><br>
 <li>Website: https://awoyemivictor.info/</li><br>
+  ------------------------------------------------------------------
+<li>Buy me a coffee: https://www.buymeacoffee.com/awoyemivictor</li><br>
+<li>Calendly: https://calendly.com/awoyemivictora/consultation-appointment</li>
+
 <!--
 **Awoyemivictor/Awoyemivictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
