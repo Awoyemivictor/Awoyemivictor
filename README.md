@@ -35,8 +35,8 @@ Feel free to check out my 𝗚𝗶𝘁𝗛𝘂𝗯 repository for examples of co
 >>Have any question? You can reach me here 👇👇👇<br>
 
 <ul>
-<li>**Telegram:** https://t.me/awoyemivictora</li><br>
-<li>**Facebook:** https://web.facebook.com/awoyemiavictor</li><br>
+<li>Telegram: https://t.me/awoyemivictora</li><br>
+<li>Facebook: https://web.facebook.com/awoyemiavictor</li><br>
 <li>Twitter: https://twitter.com/awoyemivictora</li><br>
 <li>Linkedin: https://www.linkedin.com/in/victor-awoyemi-910786152/</li><br>
 <li>Medium: https://awoyemivictora.medium.com/</li><br>
