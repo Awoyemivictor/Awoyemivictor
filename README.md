@@ -1,5 +1,3 @@
-Programming and Coding can be boring... frustrating... and devastating... 🙁 Yeah, I know and I've also been in that shoe and that's why am here to help you.
-
 ### Hi there 👋
 
 #
