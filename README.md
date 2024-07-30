@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #
-I’m Awoyemi Victor, a Computer Science graduate with over 3 years of specialized experience in blockchain and cryptocurrency trading. I focus on creating high-performance trading bots for Binance, Uniswap, PancakeSwap, and other major exchanges, as well as developing innovative crypto tokens and NFTs using Python and various APIs.
+I’m Awoyemi Victor, a Computer Science graduate with over 3 years of specialized experience in blockchain and cryptocurrency trading. I focus on creating high-performance trading bots for **Binance, Uniswap, PancakeSwap, **and other major exchanges, as well as developing innovative **crypto tokens** and **NFTs** using **Python, JavaScript** and various **APIs**.
 Teacher, Trainer and Coach.
 #
 ⚫️ 𝗖𝘂𝘀𝘁𝗼𝗺 𝗖𝗿𝘆𝗽𝘁𝗼 𝗧𝗿𝗮𝗱𝗶𝗻𝗴 𝗕𝗼𝘁𝘀: Tailored bots for exchanges like 𝘽𝙞𝙣𝙖𝙣𝙘𝙚, 𝙁𝙏𝙓, 𝘽𝙮𝙗𝙞𝙩, 𝘾𝙤𝙞𝙣𝙗𝙖𝙨𝙚, 𝙆𝙪𝘾𝙤𝙞𝙣, 𝙐𝙣𝙞𝙨𝙬𝙖𝙥, 𝙖𝙣𝙙 𝙋𝙖𝙣𝙘𝙖𝙠𝙚𝙎𝙬𝙖𝙥. Whether you need a straightforward bot or a sophisticated cloud-based algorithm, I can deliver a solution that meets your needs.
@@ -32,11 +32,11 @@ Teacher, Trainer and Coach.
 
 Feel free to check out my 𝗚𝗶𝘁𝗛𝘂𝗯 repository for examples of completed projects and detailed implementations. I’m here to turn your crypto trading ideas and blockchain innovations into successful solutions.
 
->>Have any question? You can reach me 👇👇👇<br>
+>>Have any question? You can reach me here 👇👇👇<br>
 
 <ul>
-<li>Telegram: https://t.me/awoyemivictora</li><br>
-<li>Facebook: https://web.facebook.com/awoyemiavictor</li><br>
+<li>**Telegram:** https://t.me/awoyemivictora</li><br>
+<li>**Facebook:** https://web.facebook.com/awoyemiavictor</li><br>
 <li>Twitter: https://twitter.com/awoyemivictora</li><br>
 <li>Linkedin: https://www.linkedin.com/in/victor-awoyemi-910786152/</li><br>
 <li>Medium: https://awoyemivictora.medium.com/</li><br>
