@@ -3,19 +3,41 @@ Programming and Coding can be boring... frustrating... and devastating... 🙁 Y
 ### Hi there 👋
 
 #
-I’m Awoyemi Victor, a Full-Stack Solana Blockchain & Web Developer,  Teacher, Trainer and Coach.
+I’m Awoyemi Victor, a Computer Science graduate with over 3 years of specialized experience in blockchain and cryptocurrency trading. I focus on creating high-performance trading bots for Binance, Uniswap, PancakeSwap, and other major exchanges, as well as developing innovative crypto tokens and NFTs using Python and various APIs.
+Teacher, Trainer and Coach.
 #
-When I started coding, I struggled. I landed an internship web3 related job, but I didn’t know how to go about it. I turned to countless courses and books, but they only taught theory.
-#
-Nothing helped. Gosh! 🥹 The courses left me confused, bored, demotivated, and helpless. They taught concepts…but none of them taught me how to use those concepts to make something real.
+⚫️ 𝗖𝘂𝘀𝘁𝗼𝗺 𝗖𝗿𝘆𝗽𝘁𝗼 𝗧𝗿𝗮𝗱𝗶𝗻𝗴 𝗕𝗼𝘁𝘀: Tailored bots for exchanges like 𝘽𝙞𝙣𝙖𝙣𝙘𝙚, 𝙁𝙏𝙓, 𝘽𝙮𝙗𝙞𝙩, 𝘾𝙤𝙞𝙣𝙗𝙖𝙨𝙚, 𝙆𝙪𝘾𝙤𝙞𝙣, 𝙐𝙣𝙞𝙨𝙬𝙖𝙥, 𝙖𝙣𝙙 𝙋𝙖𝙣𝙘𝙖𝙠𝙚𝙎𝙬𝙖𝙥. Whether you need a straightforward bot or a sophisticated cloud-based algorithm, I can deliver a solution that meets your needs.
 
-Many days I was unable to write even a single line of code. I was so close to giving up but my love for coding was the only thing that kept me going.
+⚪️ 𝗜𝗻𝗱𝗶𝗰𝗮𝘁𝗼𝗿-𝗕𝗮𝘀𝗲𝗱 𝗧𝗿𝗮𝗱𝗶𝗻𝗴 𝗕𝗼𝘁𝘀: Development of bots utilizing popular indicators such as 𝙈𝘼𝘾𝘿, 𝙀𝙈𝘼, 𝙍𝙎𝙄, and more to enhance trading precision.
 
-After a lot of trial and error and unending frustration, I finally discovered the best way to learn and impact others. You want to know the answer?
+⚫️ 𝗖𝗼𝗽𝘆 𝗧𝗿𝗮𝗱𝗶𝗻𝗴 𝗕𝗼𝘁𝘀: Bots designed to replicate trades from other accounts, enabling you to benefit from successful trading strategies.
 
->>SUBSCRIBE to my channel and FOLLOW ME to learn more 👇👇👇<br>
+⚪️ 𝗦𝗲𝗿𝘃𝗲𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 & 𝗦𝘂𝗽𝗽𝗼𝗿𝘁: Comprehensive management and support for your trading bot infrastructure, ensuring optimal performance and reliability.
+
+⚫️ 𝗦𝗶𝗴𝗻𝗮𝗹 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Integration of signals from platforms like 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺, 𝗗𝗶𝘀𝗰𝗼𝗿𝗱, 𝗮𝗻𝗱 𝗧𝘄𝗶𝘁𝘁𝗲𝗿 into crypto exchanges for automated trading.
+
+⚪️ 𝗖𝗿𝘆𝗽𝘁𝗼 𝗧𝗼𝗸𝗲𝗻 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻: Design and development of custom crypto tokens tailored to your specifications, including smart contract deployment and management.
+
+⚫️ 𝗡𝗙𝗧 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Creation and deployment of NFTs with advanced features and smart contracts on popular blockchains.
+
+𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀:
+
+⚫️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: Python and JavaScript
+
+⚪️ 𝗔𝗣𝗜𝘀 & 𝗧𝗿𝗮𝗱𝗶𝗻𝗴 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀: Binance 𝘼𝙋𝙄, 𝙁𝙏𝙓, 𝘽𝙮𝙗𝙞𝙩, 𝘾𝙤𝙞𝙣𝙗𝙖𝙨𝙚, 𝙆𝙪𝘾𝙤𝙞𝙣, 𝙐𝙣𝙞𝙨𝙬𝙖𝙥, 𝙋𝙖𝙣𝙘𝙖𝙠𝙚𝙎𝙬𝙖𝙥
+
+⚫️ 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀: AWS, Google Cloud
+
+⚪️ 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗧𝗼𝗼𝗹𝘀: TradingView, Web Scraping
+
+⚫️ 𝗕𝗼𝘁 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Telegram Bot
+
+Feel free to check out my 𝗚𝗶𝘁𝗛𝘂𝗯 repository for examples of completed projects and detailed implementations. I’m here to turn your crypto trading ideas and blockchain innovations into successful solutions.
+
+>>Have any question? You can reach me 👇👇👇<br>
 
 <ul>
+<li>Telegram: https://t.me/awoyemivictora</li><br>
 <li>Facebook: https://web.facebook.com/awoyemiavictor</li><br>
 <li>Twitter: https://twitter.com/awoyemivictora</li><br>
 <li>Linkedin: https://www.linkedin.com/in/victor-awoyemi-910786152/</li><br>
