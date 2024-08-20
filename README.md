@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #
-I’m Awoyemi Victor, a Computer Science student with over 3 years of specialized experience in blockchain and cryptocurrency trading. I focus on creating high-performance trading bots for **Binance, Uniswap, PancakeSwap**, and other major exchanges, as well as developing innovative **crypto tokens** and **NFTs** using **Python, JavaScript** and various **APIs**.
+I’m Awoyemi Victor, a Computer Science student with over 3 years of specialized experience in blockchain, cryptocurrency trading bots and sophisticated web applications. I focus on creating high-performance trading bots for **Binance, Uniswap, PancakeSwap**, and other major exchanges, as well as developing innovative **crypto tokens** and **NFTs** using **Python, JavaScript** and various technologies like FastAPI, PostgreSQL, SQLAlchemy, Python & JavaScript Libraries, **APIs**. I started coding as a C Programmer acquiring certification as a **Certified Full Stack Software Engineer at ALX-SE Cohort-8**
 #
 ⚫️ 𝗖𝘂𝘀𝘁𝗼𝗺 𝗖𝗿𝘆𝗽𝘁𝗼 𝗧𝗿𝗮𝗱𝗶𝗻𝗴 𝗕𝗼𝘁𝘀: Tailored bots for exchanges like 𝘽𝙞𝙣𝙖𝙣𝙘𝙚, 𝙁𝙏𝙓, 𝘽𝙮𝙗𝙞𝙩, 𝘾𝙤𝙞𝙣𝙗𝙖𝙨𝙚, 𝙆𝙪𝘾𝙤𝙞𝙣, 𝙐𝙣𝙞𝙨𝙬𝙖𝙥, 𝙖𝙣𝙙 𝙋𝙖𝙣𝙘𝙖𝙠𝙚𝙎𝙬𝙖𝙥. Whether you need a straightforward bot or a sophisticated cloud-based algorithm, I can deliver a solution that meets your needs.
 
@@ -16,6 +16,8 @@ I’m Awoyemi Victor, a Computer Science student with over 3 years of specialize
 ⚪️ 𝗖𝗿𝘆𝗽𝘁𝗼 𝗧𝗼𝗸𝗲𝗻 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻: Design and development of custom crypto tokens tailored to your specifications, including smart contract deployment and management.
 
 ⚫️ 𝗡𝗙𝗧 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Creation and deployment of NFTs with advanced features and smart contracts on popular blockchains.
+
+⚪️ Full Stack Web Application: Full Stack design and development of web application for small and large scale businesses, ecommerce stores, SAAS, etc
 
 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀:
 
